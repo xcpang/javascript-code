@@ -1,3 +1,4 @@
+// review pxc
 // Without chaining:
 addEvent($('example'), 'click', function() {
   setStyle(this, 'color', 'green');
